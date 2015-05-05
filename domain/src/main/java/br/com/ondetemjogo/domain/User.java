@@ -5,4 +5,6 @@ public class User{
      private String name;
      private String address;
      private Date dateOfBirth
+     private String login;
+     private String password;
 }
